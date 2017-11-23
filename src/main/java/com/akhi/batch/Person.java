@@ -1,6 +1,7 @@
 package com.akhi.batch;
 
 public class Person {
+
     private String lastName;
     private String firstName;
 
